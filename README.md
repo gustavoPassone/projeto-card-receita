@@ -14,20 +14,3 @@ As receitas são carregadas dinamicamente a partir de um **array em JavaScript**
 * Layout responsivo, adaptando-se a diferentes tamanhos de tela.
 * Redirecionamento para a página de detalhes da receita ao clicar no botão "Ver Receita".
 * Página de detalhes preenchida automaticamente com os dados da receita selecionada.
-
-## 📂 Estrutura
-
-/projeto-card-receita 
-|-- /assets
-|   |-- macarrao.jpg
-|   |-- peito-frango.png
-|   |-- arroz.png
-|-- /js
-|   |-- dados.js
-|   |-- script.js
-|   |-- detalhes.js
-|-- /css
-|   |-- style.css
-|   |-- detalhes.css
-|-- index.html
-|-- detalhes-receita.html
