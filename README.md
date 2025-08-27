@@ -15,8 +15,8 @@ Ele apresenta uma receita, com imagem, título, descrição e um botão de chama
 ## 📂 Estrutura do Projeto
 
 📁 card-receita
- ┣ 📂 assets
- ┃ ┗ 📜 macarrao.jpg
- ┣ 📜 index.html
- ┣ 📜 style.css
- ┗ 📜 README.md
+┣ 📂 assets
+┃ ┗ 📜 macarrao.png
+┣ 📜 index.html
+┣ 📜 style.css
+┗ 📜 README.md
