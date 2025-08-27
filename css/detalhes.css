@@ -1,0 +1,38 @@
+.detalhe-container {
+    width: 90vw;
+    max-width: 900px;
+    margin: 40px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.1);
+
+    & img {
+        width: 100%;
+        max-height: 400px;
+        object-fit: cover;
+        border-radius: 10px;
+        margin-top: 20px;
+    }
+
+    & h1 {
+        margin-top: 20px;
+        font-size: 2rem;
+    }
+
+    & h2 {
+        margin-top: 25px;
+        border-bottom: 2px solid var(--btn-background);
+        padding-bottom: 5px;
+        margin-bottom: 15px;
+    }
+
+    & ul, .detalhe-container p {
+        line-height: 1.6;
+        color: var(--description);
+    }
+
+    & li {
+        margin-left: 20px;
+    }
+}
